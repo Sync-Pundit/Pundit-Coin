@@ -1,4 +1,4 @@
-# [Sync_Pundit Coin](https://github.com/Sync-Pundit/Sync_Pundit-Coin/)
+# [Pundit Coin](https://github.com/Sync-Pundit/Sync_Pundit-Coin/)
 
 [Sync_Pundit](https://syncpundit.com/)'s token built on [Solana](https://solana.com/).
 
