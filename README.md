@@ -1,6 +1,6 @@
 # [Pundit Coin](https://github.com/Sync-Pundit/Sync_Pundit-Coin/)
 
-[Sync_Pundit](https://syncpundit.com/)'s token built on [Solana](https://solana.com/).
+[Sync_Pundit](https://links.syncpundit.io/)'s token built on [Solana](https://solana.com/).
 
 
 # Why?
